@@ -9,6 +9,16 @@
                 ||     ||
 ```
 
-- ☕ professional preference: Ruby on Rails with Turbo/Stimulus/Hotwire
-- 🎤 interested in speech control as an accessibility device
-- ⚡ also interested in [zig](https://ziglang.org/), [mruby](https://mruby.org/), [crystal](https://crystal-lang.org/), and [elixir](https://elixir-lang.org/).
+> [!NOTE]
+> I've moved off of github, since it's a dumpster fire nowadays.
+>
+> New locations:
+>
+> - https://gitlab.com/mdelk
+> - https://tangled.org/mdelk.dev
+>
+> Further reading:
+> 
+> - https://mitchellh.com/writing/ghostty-leaving-github
+> - https://ziglang.org/news/migrating-from-github-to-codeberg/
+> - https://sfconservancy.org/GiveUpGitHub/
