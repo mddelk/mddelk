@@ -14,7 +14,8 @@
 >
 > New locations:
 >
-> - https://gitlab.com/mdelk
+> - https://mdelk.dev
+> - https://gitlab.com/mdelk <-- code moved here
 > - https://tangled.org/mdelk.dev
 >
 > Further reading:
